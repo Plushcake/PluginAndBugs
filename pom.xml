@@ -89,7 +89,7 @@
             <execution>
                 <id>spotbugs-maven-plugin</id>
                 <phase>verify</phase>
-                <goals>git
+                <goals>
                     <goal>check</goal>
                 </goals>
             </execution>
